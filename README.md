@@ -1,3 +1,3 @@
-# Projek-Strukdat
+# Projek - Struktur Data
 Public Transport Recommendation antar kota dapat memudahkan pengguna dalam mendapatkan informasi mengenai rute dan jadwal angkutan umum. Program ini memungkinkan pengguna mendapatkan informasi harga berdasarkan jenis kendaraan, serta menampilkan seluruh data yang tersimpan dengan format yang rapi dan mudah dibaca. Dengan demikian, pengguna dapat membuat keputusan yang lebih baik terkait pemilihan angkutan umum. Sistem program ini tidak hanya meningkatkan efisiensi manajemen data tetapi juga memberikan kemudahan akses informasi yang sangat penting untuk perencanaan perjalanan yang optimal. 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/75ebe35d-fabb-4db1-9e04-ba01e186342e" />
